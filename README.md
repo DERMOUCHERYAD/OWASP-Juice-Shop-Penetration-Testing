@@ -548,9 +548,7 @@ During passive reconnaissance, complete email addresses were observed in publicl
 
 This information could facilitate targeted social engineering or phishing.
 
-#### 📸 Evidence
 
-![Privacy Observation](screenshots/02-privacy-observation.png)
 
 **Result:** Privacy observation; not classified as a confirmed exploitable vulnerability in the report.
 
