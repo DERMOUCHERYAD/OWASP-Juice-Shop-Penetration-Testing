@@ -393,7 +393,7 @@ This demonstrated that authentication alone was insufficient to protect individu
 
 ### 📸 Evidence — IDOR
 
-![IDOR Basket Access]((https://github.com/DERMOUCHERYAD/OWASP-Juice-Shop-Penetration-Testing/blob/main/Rapport%20PEAS/F-02-B.png))
+![IDOR Basket Access](https://github.com/DERMOUCHERYAD/OWASP-Juice-Shop-Penetration-Testing/blob/main/Rapport%20PEAS/F-02-B.png)
 
 *Figure 2 — Burp Suite evidence demonstrating unauthorized access to another basket through object identifier manipulation.*
 
