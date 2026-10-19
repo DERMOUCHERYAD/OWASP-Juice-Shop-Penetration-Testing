@@ -485,7 +485,7 @@ These are selected examples, not an exhaustive directory inventory.
 
 ### 📸 Evidence — Directory Discovery
 
-![Directory Discovery](screenshots/05-directory-discovery.png)
+![Directory Discovery](https://github.com/DERMOUCHERYAD/OWASP-Juice-Shop-Penetration-Testing/blob/main/Rapport%20PEAS/F03-A.png)
 
 *Figure 3 — ffuf enumeration and browser evidence of the publicly accessible directory.*
 
