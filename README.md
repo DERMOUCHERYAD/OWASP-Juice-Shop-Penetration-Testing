@@ -536,7 +536,7 @@ This did not reveal whether the account existed through a distinguishable error 
 
 #### 📸 Evidence
 
-![Login Negative Test](screenshots/01-login-negative-test.png)
+![Login Negative Test](https://github.com/DERMOUCHERYAD/OWASP-Juice-Shop-Penetration-Testing/blob/main/Rapport%20PEAS/3.2-B.A.png)
 
 **Result:** No user enumeration vulnerability confirmed through this test.
 
