@@ -307,7 +307,7 @@ This demonstrated a successful authentication bypass.
 
 ### 📸 Evidence — SQL Injection
 
-![SQL Injection Authentication Bypass](screenshots/03-sqli-auth-bypass.png)
+![SQL Injection Authentication Bypass](https://github.com/DERMOUCHERYAD/OWASP-Juice-Shop-Penetration-Testing/blob/main/Rapport%20PEAS/F-01.png)
 
 *Figure 1 — Burp Suite Repeater showing the manipulated login request and successful authentication response.*
 
